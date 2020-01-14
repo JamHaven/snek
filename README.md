@@ -1,5 +1,6 @@
-[![Build Status](https://travis-ci.com/jamhaven/snek.svg)](https://travis-ci.com/jamhaven/snek)
 # Snake
+[![docker build](https://img.shields.io/docker/cloud/build/jamhaven/snek.svg)](https://cloud.docker.com/u/wolferl42195/repository/docker/jamhaven/snek)
+[![Build Status](https://travis-ci.com/JamHaven/snek.svg?branch=master)](https://travis-ci.com/JamHaven/snek)
 
 ## Advanced Software Development - Project
 
