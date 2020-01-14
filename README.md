@@ -33,4 +33,3 @@ H2 Database, Version 1.4.199
 The project is managed by Maven, so all dependencies should be downloaded by updating the project via Maven.
 
 You need to run the H2 Database Console on your PC / MAC!
-
