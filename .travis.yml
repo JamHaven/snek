@@ -4,3 +4,5 @@ jdk:
 before_install:
   - echo "$DOCKER_PASSWORD" | docker login -u "$DOCKER_USERNAME" --password-stdin
   - docker pull openjdk:11-jdk
+after_success:
+  - bash <(curl -s https://codecov.io/bash)

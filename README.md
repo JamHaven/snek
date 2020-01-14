@@ -1,7 +1,9 @@
 # Snake
 [![docker build](https://img.shields.io/docker/cloud/build/jamhaven/snek.svg)](https://cloud.docker.com/u/wolferl42195/repository/docker/jamhaven/snek)
 [![Build Status](https://travis-ci.com/JamHaven/snek.svg?branch=master)](https://travis-ci.com/JamHaven/snek)
-
+<a href="https://codecov.io/gh/jamhaven/snek">
+<img src="https://codecov.io/gh/jamhaven/snek" />
+</a>
 ## Advanced Software Development - Project
 
 ## How to play?
