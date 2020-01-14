@@ -1,5 +1,5 @@
 # Snake
-[![docker build](https://img.shields.io/docker/cloud/build/jamhaven/snek.svg)](https://cloud.docker.com/u/wolferl42195/repository/docker/jamhaven/snek)
+[![docker build](https://img.shields.io/docker/cloud/build/jamhaven/snek.svg)](https://cloud.docker.com/u/JamHaven/repository/docker/jamhaven/snek)
 [![Build Status](https://travis-ci.com/JamHaven/snek.svg?branch=master)](https://travis-ci.com/JamHaven/snek)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=JamHaven_snek&metric=alert_status)](https://sonarcloud.io/dashboard?id=JamHaven_snek)
 <a href="https://codecov.io/gh/jamhaven/snek">
