@@ -42,12 +42,12 @@ public class SnakeTest {
                 BackgroundPosition.DEFAULT, BackgroundSize.DEFAULT);
         Background backgroundView = new Background(backgroundImage);
         backgroundPane.setBackground(backgroundView);
-        Scene scene = new Scene(backgroundPane, stage.getWidth(), stage.getHeight(), Color.DARKGREEN);
+
+        //Scene scene = new Scene(backgroundPane, stage.getWidth(), stage.getHeight(), Color.DARKGREEN);
         snake = new Snake(group, stage);
-        scene.setOnKeyPressed(keyEvent -> control.keyHandler(keyEvent, snake, group, food, score, stage));
+        //scene.setOnKeyPressed(keyEvent -> control.keyHandler(keyEvent, snake, group, food, score, stage));
         gameboard = new Gameboard();
         applicationInteractions = new ApplicationInteractions(group,stage);
-
     }
 
     @Test
