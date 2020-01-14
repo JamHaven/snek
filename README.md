@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.com/JamHaven/snek.svg?branch=master)](https://travis-ci.com/JamHaven/snek)
 [![Quality Gate](https://sonarcloud.io/api/project_badges/measure?project=JamHaven_snek&metric=alert_status)](https://sonarcloud.io/dashboard?id=JamHaven_snek)
 [![codecov](https://codecov.io/gh/JamHaven/snek/branch/master/graph/badge.svg)](https://codecov.io/gh/JamHaven/snek)
-
+[![License: MIT](https://img.shields.io/badge/License-MITyellow.svg)](https://opensource.org/licenses/MIT)
 ## Advanced Software Development - Project
 
 ## How to play?
