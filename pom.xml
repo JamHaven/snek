@@ -123,7 +123,25 @@
                     </dependency>
                 </dependencies>
             </plugin>
-
         </plugins>
     </build>
+    <licenses>
+        <license>
+            <name>MIT License</name>
+            <url>http://www.opensource.org/licenses/mit-license.php</url>
+            <distribution>repo</distribution>
+        </license>
+    </licenses>
+    <developers>
+        <developer>
+            <email>mario.rubak@stud.fh-campuswien.ac.at</email>
+            <name>Mario Rubak</name>
+            <url>https://github.com/JamHaven</url>
+            <id>JamHaven</id>
+        </developer>
+    </developers>
+    <organization>
+        <name>FH Campus Wien</name>
+        <url> https://www.fh-campuswien.ac.at/</url>
+    </organization>
 </project>
