@@ -1,0 +1,1394 @@
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,721285, green: 0,655207, blue: 0,691611, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,848779, green: 0,220270, blue: 0,505837, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,465450, green: 0,835113, blue: 0,331114, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,934471, green: 0,935290, blue: 0,424102, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,077569, green: 0,763550, blue: 0,581888, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23200000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,785277, green: 0,371752, blue: 0,427905, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 22600000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,299744, green: 0,002101, blue: 0,603813, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,992651, green: 0,917571, blue: 0,030243, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 5
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 22000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,461746, green: 0,353907, blue: 0,165854, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,551741, green: 0,899369, blue: 0,242041, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,468792, green: 0,273480, blue: 0,779722, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,502512, green: 0,172243, blue: 0,304967, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,995430, green: 0,574911, blue: 0,071875, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,107061, green: 0,666138, blue: 0,773907, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,608196, green: 0,317379, blue: 0,679021, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,410781, green: 0,892728, blue: 0,359285, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,789702, green: 0,996881, blue: 0,202271, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,285037, green: 0,666721, blue: 0,189345, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,086809, green: 0,423080, blue: 0,005110, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,298996, green: 0,545471, blue: 0,402587, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,855536, green: 0,910178, blue: 0,890327, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,018285, green: 0,740839, blue: 0,230495, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,325373, green: 0,660723, blue: 0,941077, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Snake  - Snake died!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Tail bite. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,578117, green: 0,507173, blue: 0,980709, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Stopping gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Game was reset!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,955639, green: 0,471246, blue: 0,061214, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,628552, green: 0,259336, blue: 0,580817, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,306558, green: 0,138657, blue: 0,000069, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,999543, green: 0,924686, blue: 0,592903, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,897693, green: 0,196281, blue: 0,896812, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,683432, green: 0,282900, blue: 0,859017, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,776409, green: 0,858453, blue: 0,629571, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,982536, green: 0,297565, blue: 0,187723, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,769007, green: 0,302581, blue: 0,504444, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,919498, green: 0,693439, blue: 0,741879, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,637198, green: 0,667570, blue: 0,069589, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,258048, green: 0,283272, blue: 0,037806, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,612567, green: 0,397535, blue: 0,089512, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,731830, green: 0,798121, blue: 0,716005, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,031682, green: 0,809680, blue: 0,964744, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,328960, green: 0,225038, blue: 0,493570, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,044506, green: 0,015278, blue: 0,132042, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,729956, green: 0,906060, blue: 0,958464, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,618772, green: 0,572643, blue: 0,230270, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,246720, green: 0,902385, blue: 0,115807, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,312968, green: 0,500998, blue: 0,067135, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,860196, green: 0,377666, blue: 0,846337, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,540601, green: 0,534152, blue: 0,671912, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,732522, green: 0,770038, blue: 0,970914, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,857994, green: 0,325130, blue: 0,791551, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,737451, green: 0,177638, blue: 0,988923, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23200000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,274196, green: 0,897292, blue: 0,969506, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,219020, green: 0,675920, blue: 0,207272, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,299203, green: 0,803698, blue: 0,649408, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,593045, green: 0,483207, blue: 0,338782, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Snake  - Snake died!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Tail bite. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,612056, green: 0,185548, blue: 0,891003, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,315527, green: 0,792416, blue: 0,659675, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,395724, green: 0,279710, blue: 0,049632, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,321115, green: 0,549980, blue: 0,263645, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,505975, green: 0,577449, blue: 0,561435, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,517875, green: 0,753560, blue: 0,196718, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,920265, green: 0,705547, blue: 0,366124, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Stopping gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Game was reset!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,174116, green: 0,229737, blue: 0,681124, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,505163, green: 0,856216, blue: 0,827693, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while truncating Table SNAKE_BODY_PART
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Syntax Fehler in SQL Befehl "TRUNCATE TABLE ?[*]"; erwartet "identifier"
+Syntax error in SQL statement "TRUNCATE TABLE ?[*]"; expected "identifier"; SQL statement:
+TRUNCATE TABLE ? [42001-199]
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while inserting into Table SNAKE_BODY_PART
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Sql Statement: INSERT INTO SNAKE_BODY_PART VALUES (default,  ?, ?, ?, ?, ?, ?, ?) 
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Methode nur zulässig für eine Abfrage. Erlaubt sind execute oder executeUpdate, nicht jedoch executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+INSERT INTO SNAKE_BODY_PART VALUES (default,  ?, ?, ?, ?, ?, ?, ?) [90002-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,964180, green: 0,559818, blue: 0,049593, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,475022, green: 0,651360, blue: 0,523871, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,972544, green: 0,402727, blue: 0,319817, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,631152, green: 0,131837, blue: 0,748071, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,937440, green: 0,640722, blue: 0,621334, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,466549, green: 0,582920, blue: 0,967016, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while truncating Table SNAKE_BODY_PART
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Syntax Fehler in SQL Befehl "TRUNCATE TABLE ?[*]"; erwartet "identifier"
+Syntax error in SQL statement "TRUNCATE TABLE ?[*]"; expected "identifier"; SQL statement:
+TRUNCATE TABLE ? [42001-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,131268, green: 0,078513, blue: 0,595726, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,075453, green: 0,310932, blue: 0,680833, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,704739, green: 0,338561, blue: 0,559303, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while truncating Table SNAKE_BODY_PART
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Syntax Fehler in SQL Befehl "TRUNCATE TABLE ?[*]"; erwartet "identifier"
+Syntax error in SQL statement "TRUNCATE TABLE ?[*]"; expected "identifier"; SQL statement:
+TRUNCATE TABLE ? [42001-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,309043, green: 0,703043, blue: 0,276838, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while truncating Table SNAKE_BODY_PART
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Syntax Fehler in SQL Befehl "TRUNCATE TABLE ?[*]"; erwartet "identifier"
+Syntax error in SQL statement "TRUNCATE TABLE ?[*]"; expected "identifier"; SQL statement:
+TRUNCATE TABLE ? [42001-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23200000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,440412, green: 0,286333, blue: 0,781271, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,450379, green: 0,015058, blue: 0,350438, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs0: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,212078, green: 0,512262, blue: 0,564246, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,006775, green: 0,962097, blue: 0,952892, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while truncating Table SNAKE_BODY_PART
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Syntax Fehler in SQL Befehl "TRUNCATE TABLE ?[*];"; erwartet "identifier"
+Syntax error in SQL statement "TRUNCATE TABLE ?[*];"; expected "identifier"; SQL statement:
+TRUNCATE TABLE ?; [42001-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,814054, green: 0,020847, blue: 0,824190, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,457290, green: 0,754604, blue: 0,092813, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,108775, green: 0,466870, blue: 0,480383, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,156590, green: 0,650623, blue: 0,332861, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while truncating Table SNAKE_BODY_PART
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Methode nur zulässig für eine Abfrage. Erlaubt sind execute oder executeUpdate, nicht jedoch executeQuery
+Method is only allowed for a query. Use execute or executeUpdate instead of executeQuery; SQL statement:
+TRUNCATE TABLE SNAKE_BODY_PART [90002-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,577014, green: 0,300228, blue: 0,767404, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,702322, green: 0,909373, blue: 0,799880, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Error while truncating Table SNAKE_BODY_PART
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.database.DatabaseManager  - Syntax Fehler in SQL Befehl "TRUNCATE TABLE ?[*]"; erwartet "identifier"
+Syntax error in SQL statement "TRUNCATE TABLE ?[*]"; expected "identifier"; SQL statement:
+TRUNCATE TABLE ? [42001-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,845344, green: 0,755488, blue: 0,188537, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,115604, green: 0,810782, blue: 0,113085, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,779290, green: 0,710735, blue: 0,842415, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,276568, green: 0,344956, blue: 0,916585, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,193935, green: 0,637715, blue: 0,270972, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs0: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,858502, green: 0,766071, blue: 0,467784, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,074772, green: 0,465554, blue: 0,594470, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,272169, green: 0,008437, blue: 0,728962, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,622870, green: 0,640946, blue: 0,894847, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs0: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,724749, green: 0,110004, blue: 0,298402, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,902675, green: 0,211606, blue: 0,595313, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,795383, green: 0,685072, blue: 0,818261, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Statement: prep3: SELECT id, red, green, blue, height, width, pos_x, pos_y FROM SNAKE_BODY_PART ORDER BY id ASC, returned result set: rs0: org.h2.result.LocalResultImpl@878c6c2 columns: 8 rows: 2 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs0: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,113675, green: 0,896840, blue: 0,229634, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,802632, green: 0,482103, blue: 0,730337, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,970832, green: 0,127210, blue: 0,954944, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Statement: prep3: SELECT id, red, green, blue, height, width, pos_x, pos_y FROM SNAKE_BODY_PART ORDER BY id ASC, returned result set: rs0: org.h2.result.LocalResultImpl@1805f385 columns: 8 rows: 2 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,266630, green: 0,280340, blue: 0,336267, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,764537, green: 0,681937, blue: 0,015805, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,390499, green: 0,669816, blue: 0,128318, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - Statement: prep2: SELECT id, red, green, blue, height, width, pos_x, pos_y FROM SNAKE_BODY_PART ORDER BY id ASC, returned result set: rs0: org.h2.result.LocalResultImpl@1ceefcc5 columns: 8 rows: 1 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - rs0: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,054766, green: 0,140243, blue: 0,949477, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,164608, green: 0,231427, blue: 0,973725, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,808568, green: 0,799125, blue: 0,325130, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,677008, green: 0,634079, blue: 0,870521, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs0: org.h2.result.LocalResultImpl@1c073865 columns: 8 rows: 2 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23200000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,515246, green: 0,151584, blue: 0,920092, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 22600000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,460457, green: 0,915008, blue: 0,613552, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,449559, green: 0,333919, blue: 0,614339, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs1: org.h2.result.LocalResultImpl@5653a2a5 columns: 8 rows: 3 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,649034, green: 0,840557, blue: 0,582865, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs2: org.h2.result.LocalResultImpl@33596a3f columns: 8 rows: 3 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,093015, green: 0,060294, blue: 0,650767, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs3: org.h2.result.LocalResultImpl@4e66af48 columns: 8 rows: 3 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,232524, green: 0,234914, blue: 0,650315, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs4: org.h2.result.LocalResultImpl@5fddcdd8 columns: 8 rows: 3 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,896649, green: 0,431946, blue: 0,166668, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs5: org.h2.result.LocalResultImpl@17eaa354 columns: 8 rows: 3 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,245502, green: 0,878941, blue: 0,575329, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs6: org.h2.result.LocalResultImpl@2bdc670b columns: 8 rows: 3 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 22600000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,655195, green: 0,098505, blue: 0,103191, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,116631, green: 0,388078, blue: 0,608733, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs7: org.h2.result.LocalResultImpl@9370255 columns: 8 rows: 4 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,652798, green: 0,587824, blue: 0,215452, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.database.DatabaseManager  - SQL select snakeBodyParts rs8: org.h2.result.LocalResultImpl@2b810809 columns: 8 rows: 4 pos: -1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,624683, green: 0,898527, blue: 0,824847, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,064543, green: 0,157310, blue: 0,388886, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,509744, green: 0,642196, blue: 0,524288, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,221126, green: 0,782587, blue: 0,728595, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.snake.Snake  - Error while processing snake body parts from resultset!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.snake.Snake  - Das Objekt wurde bereits geschlossen
+The object is already closed [90007-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,348761, green: 0,128534, blue: 0,154472, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,196365, green: 0,316007, blue: 0,152406, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,843869, green: 0,230723, blue: 0,375288, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.snake.Snake  - Error while processing snake body parts from resultset!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.snake.Snake  - Das Objekt wurde bereits geschlossen
+The object is already closed [90007-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,114510, green: 0,839691, blue: 0,669469, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,377809, green: 0,542624, blue: 0,159999, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,586823, green: 0,840866, blue: 0,977737, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,305727, green: 0,710476, blue: 0,085845, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.snake.Snake  - Error while processing snake body parts from resultset!
+[JavaFX Application Thread] ERROR at.ac.fhcampuswien.snake.Snake  - Das Objekt wurde bereits geschlossen
+The object is already closed [90007-199]
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,148714, green: 0,806743, blue: 0,040720, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,162771, green: 0,116939, blue: 0,416405, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,816250, green: 0,119470, blue: 0,695962, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,911765, green: 0,189732, blue: 0,750729, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,041790, green: 0,030094, blue: 0,551336, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,294970, green: 0,667368, blue: 0,601144, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23200000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,074941, green: 0,314112, blue: 0,501003, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,928929, green: 0,257865, blue: 0,953244, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,818795, green: 0,179076, blue: 0,348863, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,565098, green: 0,973010, blue: 0,668095, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,787532, green: 0,648302, blue: 0,797513, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,082094, green: 0,745837, blue: 0,919861, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,910386, green: 0,266658, blue: 0,774577, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,145293, green: 0,606399, blue: 0,109274, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 5
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23200000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,267567, green: 0,125204, blue: 0,715724, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,389351, green: 0,542144, blue: 0,722985, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 5
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,094199, green: 0,258148, blue: 0,399410, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,677825, green: 0,657776, blue: 0,575622, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,749844, green: 0,417708, blue: 0,942169, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,313938, green: 0,858586, blue: 0,898371, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,382418, green: 0,416902, blue: 0,333034, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,900815, green: 0,384927, blue: 0,703015, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,259166, green: 0,169174, blue: 0,042230, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,948853, green: 0,451727, blue: 0,081578, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,987339, green: 0,803767, blue: 0,489306, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,577879, green: 0,496943, blue: 0,351738, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,124202, green: 0,167793, blue: 0,705624, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,832582, green: 0,990481, blue: 0,696821, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,833880, green: 0,295970, blue: 0,719795, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,683219, green: 0,592530, blue: 0,985770, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,969960, green: 0,706731, blue: 0,151264, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,164862, green: 0,142525, blue: 0,459792, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,471066, green: 0,649699, blue: 0,866413, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 4
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23200000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,047355, green: 0,890905, blue: 0,838282, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,691844, green: 0,167716, blue: 0,509687, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Snake  - Snake died!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Tail bite. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,575248, green: 0,268766, blue: 0,136680, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Stopping gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Game was reset!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,895098, green: 0,636747, blue: 0,344255, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,385740, green: 0,216128, blue: 0,488115, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,463709, green: 0,539732, blue: 0,563439, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,390068, green: 0,191470, blue: 0,686241, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,438137, green: 0,238717, blue: 0,561507, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,360401, green: 0,022446, blue: 0,322165, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,450137, green: 0,459118, blue: 0,784143, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,303017, green: 0,755218, blue: 0,949546, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,082955, green: 0,585900, blue: 0,279703, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,367613, green: 0,045762, blue: 0,704865, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,583101, green: 0,827845, blue: 0,837625, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,911503, green: 0,974923, blue: 0,814678, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music restarted: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 24400000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,893815, green: 0,909803, blue: 0,665042, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,020822, green: 0,154152, blue: 0,206090, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,709528, green: 0,216159, blue: 0,469018, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Snake  - Snake died!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Tail bite. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,897825, green: 0,507417, blue: 0,142467, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 0
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,919953, green: 0,113372, blue: 0,002038, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 0
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,433984, green: 0,232846, blue: 0,427252, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 0
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,347419, green: 0,577680, blue: 0,643928, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 0
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,016068, green: 0,079213, blue: 0,674682, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,601746, green: 0,835218, blue: 0,106208, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,365914, green: 0,349079, blue: 0,689251, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,849245, green: 0,762418, blue: 0,475646, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 1
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,341202, green: 0,963035, blue: 0,666521, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,779055, green: 0,161943, blue: 0,596748, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 2
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score increased: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Snake  - Framedelay: 23800000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,232387, green: 0,776443, blue: 0,312946, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing eat sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/eat2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.GameObject  - Food in Color: red: 0,426958, green: 0,230589, blue: 0,015823, spawned at: X:0,000000 Y:0,000000
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Score  - Score set to: 3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving up!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving left!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving down!
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.Control  - Snake is moving right!
+[JavaFX Application Thread] INFO  at.ac.fhcampuswien.snake.Gameboard  - Death because of Wall. Displaying message: null
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Playing death sound: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/death1.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Ingame music stopped: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/ingame2.mp3
+[JavaFX Application Thread] DEBUG at.ac.fhcampuswien.snake.AudioManager  - Restart gameover music: file:/C:/Users/m_rub/IdeaProjects/snek/src/main/resources/at/ac/fhcampuswien/media/sound/music/gameover1.mp3
