@@ -14,7 +14,6 @@ import javafx.scene.shape.Rectangle;
 import javafx.stage.Stage;
 
 class Snake {
-
     private static Logger logger = Logger.getLogger(Snake.class.getName());
     long frameDelay = GameConstants.FRAMEDELAY; //25-30 mill. guter Startwert
     LinkedList<Rectangle> snakeBodyPartsList = new LinkedList<>();
